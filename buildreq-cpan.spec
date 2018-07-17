@@ -6,6 +6,7 @@ Summary:        Helper files
 Url:            https://clearlinux.org/
 Group:          base
 Requires:	perl
+Requires:	perl-Module-Build
 
 %description
 Helper files 
